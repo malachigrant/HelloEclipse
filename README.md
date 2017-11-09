@@ -1,2 +1,0 @@
-# HelloEclipse
-Eclipse Repository
